@@ -24,12 +24,15 @@ The code is designed for maximum reusability across platforms, with shared logic
 Learn more 👇👇  
   
 LCD Internals + Datasheet-Level Understanding Part 1 👇    
+  
 [![LCD_PART1_Youtube Video](img/lcdpt1thumbnail.png)](https://youtu.be/KTj_DRnFX4U)  
 
 ESP32 Code Walkthrough & Demo Part 2 👇    
+  
 [![LCD_PART2_Youtube Video](img/esplcdpt2thumbnail.png)](https://youtu.be/ZlrFt0dDOC8)  
 
-STM32 Code Walkthrough & Demo Part 3 👇    
+STM32 Code Walkthrough & Demo Part 3 👇 
+  
 [![LCD_PART3_Youtube Video](img/stm32lcdpt3thumbnail.png)](https://youtu.be/uYchTgKytXA)  
 
 ## ✔️ Requirements
